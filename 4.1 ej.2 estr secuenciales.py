@@ -9,3 +9,12 @@
 #cuadrado. Puedes hacer un algoritmo para calcular el costo de mano de obra para
 
 #pintar la pared.
+
+lado1 = float(input("ingresar lado 1: "))
+lado2 = float(input("ingresar lado 2: "))
+precio_m2 = 5000
+calculo_m2 = lado1 * lado2
+
+precio_final = calculo_m2 * precio_m2
+
+print( "el costo de la mano de obra de la pared es:$ ", precio_final)
