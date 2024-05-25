@@ -1,0 +1,1 @@
+Ejercicios practicos de introduccion a la programacion incluye estructuras secuenciales, estructuras condicionales, estructuras iterativas y estructuras de datos. Resueltos en codigo python, diagrama de flujo y pseudocodigo.
